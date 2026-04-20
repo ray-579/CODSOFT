@@ -7,12 +7,12 @@ This repository contains projects completed during my Machine Learning Internshi
 
 ## Projects
 
-###Movie Genre Classification
--Predicts the movie genre (e.g., Drama, Thriller, Comedy) based on plot summaries.
--Uses a text-based dataset with a custom ::: delimiter.
--Techniques: TF-IDF (Term Frequency-Inverse Document Frequency) for text vectorization.
--Models: Logistic Regression (highly effective for high-dimensional text data).
--Includes a real-time user-input interface to test custom plots.
+### Movie Genre Classification
+- Predicts the movie genre (e.g., Drama, Thriller, Comedy) based on plot summaries.
+- Uses a text-based dataset with a custom ::: delimiter.
+- Techniques: TF-IDF (Term Frequency-Inverse Document Frequency) for text vectorization.
+- Models: Logistic Regression (highly effective for high-dimensional text data).
+- Includes a real-time user-input interface to test custom plots.
 
 
 ### Customer Churn Prediction
