@@ -7,7 +7,7 @@ This repository contains projects completed during my Machine Learning Internshi
 
 ## Projects
 
-### Movie Genre Classification
+### Movie Genre Classification (Task-1)
 - Predicts the movie genre (e.g., Drama, Thriller, Comedy) based on plot summaries.
 - Uses a text-based dataset with a custom ::: delimiter.
 - Techniques: TF-IDF (Term Frequency-Inverse Document Frequency) for text vectorization.
@@ -15,7 +15,7 @@ This repository contains projects completed during my Machine Learning Internshi
 - Includes a real-time user-input interface to test custom plots.
 
 
-### Customer Churn Prediction
+### Customer Churn Prediction (Task-3)
 - Predicts customer churn (leave/stay)  
 - Uses behavioral & demographic data  
 - Models: Logistic Regression, Random Forest, Gradient Boosting  
@@ -23,7 +23,7 @@ This repository contains projects completed during my Machine Learning Internshi
 
 
 
-### SMS Spam Classification
+### SMS Spam Classification (Task-4)
 - Classifies SMS as spam or legitimate  
 - Uses NLP + TF-IDF/embeddings  
 - Models: Naive Bayes, Logistic Regression, SVM  
