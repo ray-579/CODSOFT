@@ -7,13 +7,12 @@ This repository contains projects completed during my Machine Learning Internshi
 
 ## Projects
 
-### Credit Card Fraud Detection
-- Detects fraudulent vs legitimate transactions  
-- Uses transaction-based dataset  
-- Models: Logistic Regression, Decision Tree, Random Forest  
-- Evaluated using accuracy and confusion matrix  
-- Handles imbalanced dataset  
-
+###Movie Genre Classification
+-Predicts the movie genre (e.g., Drama, Thriller, Comedy) based on plot summaries.
+-Uses a text-based dataset with a custom ::: delimiter.
+-Techniques: TF-IDF (Term Frequency-Inverse Document Frequency) for text vectorization.
+-Models: Logistic Regression (highly effective for high-dimensional text data).
+-Includes a real-time user-input interface to test custom plots.
 
 
 ### Customer Churn Prediction
